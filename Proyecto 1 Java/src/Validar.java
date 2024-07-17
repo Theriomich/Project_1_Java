@@ -40,6 +40,17 @@ public class Validar {
              
                 // Cerrar el scanner
                 entrada.close();
+
+                //char = caracter
+                //StartsWith= para saber si comienza con cierto caracter
+                //Math.round = redondea un num
+                //Math.cell = redondea hacia arriba el num
+                //Math.floor= redondea hacia abajo
+                //Marh.max(10,30)= arroja el num mayor
+                //Math.min(10,30)= arroja el menor
+                //Math.random()= num aleatorio
+                //Math.pow(2,2)= eleva, como ej 2 elevado a 2
+                //Math.sqrt(25)= raiz cuadrara, como por ej de 25
   }
 
 

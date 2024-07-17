@@ -26,6 +26,7 @@ public class Ciclos {
     switch (dia) {
       case 1:
           nombreDia = "Lunes";
+          //En caso de que caiga en la sentencia se ejecuta el break que termina la aplicacion
           break;
       case 2:
           nombreDia = "Martes";
@@ -47,6 +48,7 @@ public class Ciclos {
           break;
    
   }
+ 
  
 
   }
